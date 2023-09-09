@@ -5,11 +5,11 @@
         public int[] nums;
         int[] shuffled;
         Random rnd;
-   
+
         public Solution(int[] nums)
         {
             this.nums = nums;
-            rnd= new Random(nums.Length);
+            rnd = new Random(nums.Length);
         }
 
         public int[] Reset()
@@ -46,7 +46,7 @@
         /// </summary>
         static void Main(string[] args)
         {
-            
+
             int[] ints = new int[] { 1, 2, 3 };
 
             Solution obj = new Solution(ints);
