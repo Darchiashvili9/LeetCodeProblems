@@ -5,9 +5,11 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shuffle an Array", "Shuffle an Array\Shuffle an Array.csproj", "{320BF6BD-88F4-495A-AA26-0D2E173CB61A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sorted Array", "Remove Duplicates from Sorted Array\Remove Duplicates from Sorted Array.csproj", "{DEB5278D-4C81-416D-8484-4F38EEFBE798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Duplicates from Sorted Array", "Remove Duplicates from Sorted Array\Remove Duplicates from Sorted Array.csproj", "{DEB5278D-4C81-416D-8484-4F38EEFBE798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock II\Best Time to Buy and Sell Stock II.csproj", "{5083D214-4935-4328-8452-1E3CC9C0A062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock II\Best Time to Buy and Sell Stock II.csproj", "{5083D214-4935-4328-8452-1E3CC9C0A062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate Array", "Rotate Array\Rotate Array.csproj", "{1D25DD86-D303-43FF-BAD7-D521DE5AC75B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5083D214-4935-4328-8452-1E3CC9C0A062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5083D214-4935-4328-8452-1E3CC9C0A062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5083D214-4935-4328-8452-1E3CC9C0A062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D25DD86-D303-43FF-BAD7-D521DE5AC75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D25DD86-D303-43FF-BAD7-D521DE5AC75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D25DD86-D303-43FF-BAD7-D521DE5AC75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D25DD86-D303-43FF-BAD7-D521DE5AC75B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
